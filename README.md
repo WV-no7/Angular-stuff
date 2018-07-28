@@ -1,1 +1,1 @@
-Some angular practice stuff of skkumarsparsh!!
+Some angular practice stuff!!
